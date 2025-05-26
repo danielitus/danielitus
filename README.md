@@ -11,7 +11,7 @@ I'm a DevOps engineer based in Colorado, US, passionate about cloud infrastructu
 - 🌍 Located in **Colorado, US** (UTC -06:00)
 - 🔧 Specializing in **Infrastructure Automation** and **Cloud Technologies**
 - 🏆 **Arctic Code Vault Contributor** & **Pull Shark x2**
-- 🛠️ Working with **Kubernetes**, **Docker**, **Terraform**, and **OpenStack**
+- 🛠️ Working with **Networking**, **Kubernetes**, **Docker**, **Terraform**, and **OpenStack**
 
 ## 💻 Tech Stack
 
@@ -47,27 +47,9 @@ I'm a DevOps engineer based in Colorado, US, passionate about cloud infrastructu
 - Cloud automation using **Terraform** and **Packer**
 - Network monitoring with **Prometheus exporters**
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielitus&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielitus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=danielitus&theme=tokyonight&no-frame=true&margin-w=15&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 ## 🌱 Currently Exploring
 
-- 🔄 **GitOps** workflows and best practices
+- 🔄 **Network GitOps** workflows and best practices
 - 🤖 **AI/ML** infrastructure and Model Context Protocol (MCP)
 - ⚡ **Performance optimization** for large-scale systems
 - 🔐 **Security automation** and compliance as code
